@@ -9,9 +9,6 @@
     require('conecta.php');
 
     $id_cliente = $_GET['id']; //Pega da URL
-
-    echo $id_cliente;
-
     ?>
 <!DOCTYPE html>
 <html lang="en">
